@@ -1,4 +1,6 @@
 # MangaMint
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdeathdies%2Fmanga.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdeathdies%2Fmanga?ref=badge_shield)
+
 
 <p align="center">
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/febryardiansyah/manga_mint">
@@ -86,3 +88,7 @@ $ flutter build apk
 
 For detailed explanation on how things work, check out [Flutter docs](https://flutter.dev/docs).
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdeathdies%2Fmanga.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdeathdies%2Fmanga?ref=badge_large)
